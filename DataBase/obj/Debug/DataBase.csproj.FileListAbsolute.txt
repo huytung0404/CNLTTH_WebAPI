@@ -1,0 +1,20 @@
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\DataBase.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\DataBase.pdb
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Formatting.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.xml
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Formatting.xml
+D:\Save Web API\BaiTapAPI\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\Save Web API\BaiTapAPI\DataBase\obj\Debug\DataBase.dll
+D:\Save Web API\BaiTapAPI\DataBase\obj\Debug\DataBase.pdb
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\obj\Debug\DataBase.dll
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\obj\Debug\DataBase.pdb
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\bin\Debug\DataBase.dll
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\bin\Debug\DataBase.pdb
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\DataBase\obj\Debug\DataBase.csproj.CopyComplete
