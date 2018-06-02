@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GlobalVariables.cs" />
-    <Compile Include="LOAISACH\LOAISACHClient.cs" />
     <Compile Include="LOAISACH\LOAISACHModel.cs" />
     <Compile Include="NHAXUATBAN\NHAXUATBANClient.cs" />
     <Compile Include="NHAXUATBAN\NHAXUATBANModel.cs" />

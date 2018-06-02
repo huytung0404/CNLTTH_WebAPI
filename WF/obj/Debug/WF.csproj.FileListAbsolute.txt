@@ -28,3 +28,13 @@ C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\WF\obj\Debug\WF.csproj.CoreCompileI
 C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\WF\obj\Debug\WF.csproj.CopyComplete
 C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\WF\obj\Debug\WF.exe
 C:\Users\admin\Downloads\BaiTapAPI\BaiTapAPI\WF\obj\Debug\WF.pdb
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\bin\Debug\WF.exe.config
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\bin\Debug\WF.exe
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\bin\Debug\WF.pdb
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\bin\Debug\DataBase.dll
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\bin\Debug\DataBase.pdb
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\obj\Debug\WF.csprojResolveAssemblyReference.cache
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\obj\Debug\WF.Properties.Resources.resources
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\obj\Debug\WF.exe
+D:\Save_Data_GITHUB\CNLTTH_WebAPI\WF\obj\Debug\WF.pdb

@@ -2,15 +2,14 @@
 
 @{
     ViewBag.Title = "Index";
-    Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<br />
 
-<h2>Index</h2>
-
+<script src="~/Scripts/alertify.min.js"></script>
 <p>
-    @Html.ActionLink("Create New", "Create")
+    <a href="@Url.Action("AddOrEdit","LOAISACH")" class="btn btn-default">Create New</a>
 </p>
-<table class="table">
+<table class="table table-striped">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.MaLoaiSach)
@@ -30,11 +29,10 @@
             @Html.DisplayFor(modelItem => item.TenLoaiSach)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            <a href="@Url.Action("AddOrEdit","LOAISACH", new { id = item.MaLoaiSach})" class="btn btn-default">Edit</a> |
+            <a href="@Url.Action("Delete","LOAISACH", new { id = item.MaLoaiSach})" class="btn btn-default">Delete</a>
         </td>
     </tr>
 }
-
 </table>
+

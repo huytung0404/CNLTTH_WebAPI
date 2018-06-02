@@ -12,6 +12,7 @@ using BaiTapAPI.Models;
 
 namespace BaiTapAPI.Controllers
 {
+    //ĐÂy là comment dạo
     public class LOAISACHController : ApiController
     {
         private DBModel db = new DBModel();

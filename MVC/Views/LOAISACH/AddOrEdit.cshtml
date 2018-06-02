@@ -1,0 +1,24 @@
+﻿@model DataBase.LOAISACHModel
+@{
+    ViewBag.Title = "AddOrEdit";
+}
+
+
+<br /><br />
+<h2>THÊM</h2>
+<div class="form-body">
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(model => model.MaLoaiSach)
+        <div class="form-group">
+            @Html.LabelFor(model => model.TenLoaiSach)
+            @Html.EditorFor(model => model.TenLoaiSach)
+            @Html.ValidationMessageFor(model => model.TenLoaiSach)
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn button"/>
+            <input type="reset" value="Reset" class="btn button" />
+        </div>
+    }
+</div>
