@@ -1,0 +1,25 @@
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\DataBase.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\DataBase.pdb
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Formatting.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.xml
+D:\Save Web API\BaiTapAPI\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\Save Web API\BaiTapAPI\DataBase\obj\Debug\DataBase.dll
+D:\Save Web API\BaiTapAPI\DataBase\obj\Debug\DataBase.pdb
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Extensions.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Primitives.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.xml
+D:\Save Web API\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\DataBase.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\DataBase.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Extensions.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\System.Net.Http.Primitives.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\bin\Debug\Newtonsoft.Json.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\obj\Debug\DataBase.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\DataBase\obj\Debug\DataBase.pdb

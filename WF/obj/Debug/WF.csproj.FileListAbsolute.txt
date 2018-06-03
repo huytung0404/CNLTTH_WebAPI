@@ -1,0 +1,14 @@
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\WF.exe.config
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\WF.exe
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\WF.pdb
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\DataBase.dll
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\DataBase.pdb
+D:\Save Web API\BaiTapAPI\WF\obj\Debug\WF.csprojResolveAssemblyReference.cache
+D:\Save Web API\BaiTapAPI\WF\obj\Debug\WF.Properties.Resources.resources
+D:\Save Web API\BaiTapAPI\WF\obj\Debug\WF.csproj.GenerateResource.Cache
+D:\Save Web API\BaiTapAPI\WF\obj\Debug\WF.exe
+D:\Save Web API\BaiTapAPI\WF\obj\Debug\WF.pdb
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\System.Net.Http.Formatting.dll
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\Newtonsoft.Json.dll
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\System.Net.Http.Formatting.xml
+D:\Save Web API\BaiTapAPI\WF\bin\Debug\Newtonsoft.Json.xml
