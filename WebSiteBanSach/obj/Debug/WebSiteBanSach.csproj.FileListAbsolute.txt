@@ -1,0 +1,26 @@
+D:\GitHub\Web_Test\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+D:\GitHub\Web_Test\WebSiteBanSach\bin\WebSiteBanSach.dll
+D:\GitHub\Web_Test\WebSiteBanSach\bin\WebSiteBanSach.pdb
+D:\GitHub\Web_Test\WebSiteBanSach\bin\Newtonsoft.Json.dll
+D:\GitHub\Web_Test\WebSiteBanSach\obj\Debug\WebSiteBanSach.csproj.CoreCompileInputs.cache
+D:\GitHub\Web_Test\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+D:\GitHub\Web_Test\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+D:\GitHub\Web_Test\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\bin\Newtonsoft.Json.dll
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csproj.CoreCompileInputs.cache
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+F:\GitHub\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+=======
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\bin\WebSiteBanSach.dll.config
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\bin\WebSiteBanSach.dll
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\bin\WebSiteBanSach.pdb
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.dll
+C:\Users\admin\Desktop\CNWeb_BanSach\WebSiteBanSach\obj\Debug\WebSiteBanSach.pdb
+>>>>>>> c0ee1124a9acebcd7e5b94a320fdf358740bed8a
