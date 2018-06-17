@@ -1,0 +1,82 @@
+﻿@model MVC.Models.NHANVIEN
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<strong class="card-title" style="margin-left:20px; font-size:30px; color:aqua;">XÓA NHÂN VIÊN</strong>
+
+<div>
+    <strong class="card-title" style="margin-left:25px; font-size:20px; color:black;">Bạn Có Muốn Xóa Nhân Viên Này ??</strong>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã Nhân Viên:
+        </dt>
+
+        <dd>
+            <span style="font-size:15pt;margin-left:5px;color:blue">@Model.MaNV</span>
+            @*@Html.DisplayFor(model => model.SoPhieuMuon)*@
+        </dd>
+
+        <dt>
+            Tên Nhân Viên:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenNV)
+        </dd>
+
+        <dt>
+            Địa Chỉ:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+            Ngày Sinh:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgaySinh)
+        </dd>
+        <dt>
+            Giới Tính:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GioiTinh)
+        </dd>
+
+        <dt>
+            Điện Thoại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DienThoai)
+        </dd>
+
+        <dt>
+            Email:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" style="background-color:red" /> |
+            <a href="@Url.Action("Index","NHANVIEN")" class="btn btn-default" style=" background-color:plum">Back</a>
+
+        </div>
+    }
+</div>

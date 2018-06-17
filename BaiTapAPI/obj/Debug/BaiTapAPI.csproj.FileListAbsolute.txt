@@ -1,0 +1,328 @@
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\ApplicationInsights.config
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\csc.exe
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\csc.exe.config
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\csc.rsp
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\csi.exe
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\csi.rsp
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\System.AppContext.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\vbc.exe
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\vbc.exe.config
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\vbc.rsp
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\BaiTapAPI.dll.config
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\BaiTapAPI.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\BaiTapAPI.pdb
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Antlr3.Runtime.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\DataBase.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\EntityFramework.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\EntityFramework.SqlServer.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.Web.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Newtonsoft.Json.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.Formatting.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Helpers.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.WebHost.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Mvc.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Optimization.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Razor.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\WebGrease.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\DataBase.pdb
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\EntityFramework.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\EntityFramework.SqlServer.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Newtonsoft.Json.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Helpers.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.WebHost.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Mvc.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Optimization.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.Razor.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Antlr3.Runtime.pdb
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.Web.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csprojResolveAssemblyReference.cache
+D:\Save Web API\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.pdb
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.Extensions.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.Primitives.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.WebRequest.dll
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.xml
+D:\Save Web API\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.WebRequest.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\ApplicationInsights.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\csc.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\csc.exe.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\csc.rsp
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\csi.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\csi.rsp
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\System.AppContext.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\vbc.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\vbc.exe.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\vbc.rsp
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\BaiTapAPI.dll.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\BaiTapAPI.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\BaiTapAPI.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Antlr3.Runtime.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\DataBase.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\EntityFramework.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\EntityFramework.SqlServer.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.Web.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Newtonsoft.Json.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.Extensions.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.Formatting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Net.Http.Primitives.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Helpers.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.WebHost.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Mvc.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Optimization.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Razor.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\WebGrease.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\DataBase.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\EntityFramework.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\EntityFramework.SqlServer.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Newtonsoft.Json.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Helpers.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Http.WebHost.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Mvc.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Optimization.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.Razor.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Antlr3.Runtime.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\bin\Microsoft.AI.Web.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csprojResolveAssemblyReference.cache
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\New\BaiTapAPI\BaiTapAPI\obj\Debug\BaiTapAPI.pdb
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\ApplicationInsights.config
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csc.exe
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csc.exe.config
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csc.rsp
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csi.exe
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csi.rsp
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.AppContext.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\vbc.exe
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\vbc.exe.config
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\vbc.rsp
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\BaiTapAPI.dll.config
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\BaiTapAPI.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\BaiTapAPI.pdb
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Antlr3.Runtime.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\DataBase.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.SqlServer.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.Web.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Newtonsoft.Json.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Net.Http.Extensions.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Net.Http.Formatting.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Net.Http.Primitives.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Helpers.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.WebHost.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Mvc.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Optimization.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Razor.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\WebGrease.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\DataBase.pdb
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.SqlServer.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Newtonsoft.Json.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Helpers.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.WebHost.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Mvc.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Optimization.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Razor.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Antlr3.Runtime.pdb
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.Web.xml
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csprojAssemblyReference.cache
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csproj.CoreCompileInputs.cache
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csproj.CopyComplete
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.dll
+F:\Save\Save API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\ApplicationInsights.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csc.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csc.exe.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csc.rsp
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csi.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\csi.rsp
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.AppContext.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\vbc.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\vbc.exe.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\vbc.rsp
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\BaiTapAPI.dll.config
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\BaiTapAPI.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\BaiTapAPI.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Antlr3.Runtime.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\DataBase.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.SqlServer.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.Web.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Newtonsoft.Json.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Net.Http.Extensions.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Net.Http.Formatting.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Net.Http.Primitives.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Helpers.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.WebHost.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Mvc.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Optimization.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Razor.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\WebGrease.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\DataBase.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\EntityFramework.SqlServer.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Newtonsoft.Json.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Helpers.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Http.WebHost.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Mvc.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Optimization.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.Razor.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\System.Web.WebPages.Razor.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Antlr3.Runtime.pdb
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\bin\Microsoft.AI.Web.xml
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csprojResolveAssemblyReference.cache
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.dll
+D:\Bai Giang\Lap Trinh Web\Lap Trinh Tich Hop\Project\MVC- API\CNLTTH_WebAPI\BaiTapAPI\obj\Debug\BaiTapAPI.pdb

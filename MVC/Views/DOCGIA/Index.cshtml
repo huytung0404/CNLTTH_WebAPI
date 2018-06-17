@@ -1,0 +1,116 @@
+﻿
+@model PagedList.PagedList<MVC.Models.DOCGIA>
+@using PagedList.Mvc;
+@using PagedList;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card-header">
+
+    <strong class="card-title" style="margin-left:20px; font-size:30px; color:aqua;">ĐỘC GIẢ</strong>
+
+    <div class="search-bar" style="float:right">
+        @using (Html.BeginForm("Index", "DOCGIA", FormMethod.Get))
+        {
+            @Html.TextBox("SearchText", null, new { @placeholder = "Nhập ID hoặc Tên nhé :3 !!!" })
+            <input type="submit" value="Search" class="search-button" style=" border-color:red; background-color:yellow ; margin-right:100px" />
+            <a href="@Url.Action("Create","DOCGIA")" class="btn btn-default" style="float:right; border-color:red; background-color:cyan">Create New</a>
+        }
+
+
+    </div>
+
+    @*<p>
+            <a href="@Url.Action("Create","DOCGIA")" class="btn btn-default" style="float:right; border-color:red; background-color:cyan">Create New</a>
+        </p>*@
+
+</div>
+<table class="table">
+    <tr>
+        <th>
+            Mã Độc Giả
+        </th>
+        <th>
+            Tên Độc Giả
+        </th>
+        <th>
+            Địa Chỉ
+        </th>
+        <th>
+            Ngày Sinh
+        </th>
+        <th>
+            Giới Tính
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaDG)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDG)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgaySinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioiTinh)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit","DOCGIA", new { id = item.MaDG})" class="btn btn-default" style="float:right; background-color:greenyellow">Edit</a>
+                <a href="@Url.Action("Delete","DOCGIA", new { id = item.MaDG})" class="btn btn-default" style="float:right; background-color:red">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+@* Tạo link liên kết các trang*@
+                    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/ @Model.PageCount
+                    <div class="MenuTrang">
+                        @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+                    </div>
+                    <style>
+
+                        .MenuTrang ul {
+                            list-style-type: none;
+                            margin: 0;
+                            padding: 0;
+                            overflow: hidden; /*background-color: #333;*/
+                        }
+
+                        .MenuTrang li {
+                            display: inline;
+                            float: left;
+                            border-right: 1px solid #bbb;
+                        }
+
+                            .MenuTrang li:last-child {
+                                border-right: none;
+                            }
+
+                            .MenuTrang li a {
+                                display: block;
+                                color: Black;
+                                text-align: center;
+                                padding: 14px 16px;
+                                text-decoration: none;
+                            }
+
+                                .MenuTrang li a:hover:not(.MenuTrang) {
+                                    background-color: #4CAF50;
+                                }
+
+                        .MenuTrang {
+                            background-color: cornflowerblue;
+                        }
+                    </style>

@@ -1,0 +1,101 @@
+﻿@model MVC.Models.CHITIETPHIEUMUON
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<strong class="card-title" style="margin-left:20px; font-size:30px; color:aqua;">XÓA CHI TIẾT PHIẾU MƯỢN</strong>
+
+
+<div>
+    <strong class="card-title" style="margin-left:25px; font-size:20px; color:black;">Bạn Có Muốn Xóa Phiếu Mượn Này ??</strong>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Số Phiếu Mượn:
+        </dt>
+
+        <dd>
+            <span style="font-size:15pt;margin-left:5px;color:blue">@Model.SoPhieuMuon</span>
+            @*@Html.DisplayFor(model => model.SoPhieuMuon)*@
+        </dd>
+
+        <dt>
+            Tên Sách:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QUYENSACH.TenSach)
+        </dd>
+
+        <dt>
+            Tên Độc Giả:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DOCGIA.TenDG)
+        </dd>
+
+        <dt>
+            Tên Nhân Viên:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NHANVIEN.TenNV)
+        </dd>
+        <dt>
+            Lý Do Phạt:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LyDoPhat)
+        </dd>
+        <dt>
+            Ngày Mượn:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayMuon)
+        </dd>
+
+        <dt>
+            Hạn Trả:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HanTra)
+        </dd>
+
+        <dt>
+            Ngày Khách Trả:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayKhachTra)
+        </dd>
+       
+        <dt>
+            Phí Phạt:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TienPhat)
+        </dd>
+
+
+
+
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" style="background-color:red" /> |
+            <a href="@Url.Action("Index","CHITIETPHIEUMUON")" class="btn btn-default" style=" background-color:plum">Back</a>
+
+        </div>
+    }
+</div>
+

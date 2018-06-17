@@ -1,0 +1,101 @@
+﻿@model DataBase.CHITIETPHIEUMUON.CHITIETPHIEUMUONModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+
+    @Html.ValidationSummary(true)
+    <strong class="card-title" style="margin-left:20px; font-size:30px; color:aqua;">SỬA CHI TIẾT PHIẾU MƯỢN</strong>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.SoPhieuMuon, "Số Phiếu Mượn: ", new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            <span style="font-size:15pt;margin-left:5px;color:blue">@Model.SoPhieuMuon</span>
+            @Html.Hidden("SoPhieuMuon", Model.SoPhieuMuon)
+        </div>
+    </div><br />
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.MaSach, "Tên Sách: ", htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+
+            @Html.DropDownList("MaSach")
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.MaDG, "Tên Độc Giả: ", htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @Html.DropDownList("MaDG")
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.MaNV, "Tên Nhân Viên: ", htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @Html.DropDownList("MaNV")
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.NgayMuon, htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.NgayMuon, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NgayMuon, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.HanTra, htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.HanTra, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.HanTra, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.NgayKhachTra, htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.NgayKhachTra, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NgayKhachTra, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.TienPhat, htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.TienPhat, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.TienPhat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br>
+    <div class="form-group">
+        @Html.LabelFor(model => model.LyDoPhat, "Phí Phạt: ", htmlAttributes: new { @class = "control-label col-md-2", @style = "font-weight:bold; margin-right: 20px" })
+        <div class="col-md-10">
+            @*@Html.EditorFor(model => model.LyDoPhat, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LyDoPhat, "", new { @class = "text-danger" })*@
+            <textarea name="LyDoPhat">@Model.LyDoPhat</textarea>
+        </div>
+    </div>
+
+    <div class="form-actions no-color" style="margin-top:1px">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" style="background-color:greenyellow" /> |
+            <a href="@Url.Action("Index","CHITIETPHIEUMUON")" class="btn btn-default" style="background-color:plum ">Back</a>
+
+        </div>
+    </div>
+</div>
+}
+
+
