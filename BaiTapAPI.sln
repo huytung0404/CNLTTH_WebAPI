@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapAPI", "BaiTapAPI\BaiTapAPI.csproj", "{CEFBCA40-477A-4C32-8A9F-04EA15579289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{A82B4618-D7C5-4154-9308-C5C19AEE6821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{86FD7596-A0A6-4213-A5DF-0EBC26C5468A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF", "WF\WF.csproj", "{EE2F00F7-3DB3-410C-AEAB-FDC5C5ACDCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFBCA40-477A-4C32-8A9F-04EA15579289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFBCA40-477A-4C32-8A9F-04EA15579289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFBCA40-477A-4C32-8A9F-04EA15579289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFBCA40-477A-4C32-8A9F-04EA15579289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82B4618-D7C5-4154-9308-C5C19AEE6821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82B4618-D7C5-4154-9308-C5C19AEE6821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82B4618-D7C5-4154-9308-C5C19AEE6821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82B4618-D7C5-4154-9308-C5C19AEE6821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FD7596-A0A6-4213-A5DF-0EBC26C5468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FD7596-A0A6-4213-A5DF-0EBC26C5468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FD7596-A0A6-4213-A5DF-0EBC26C5468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FD7596-A0A6-4213-A5DF-0EBC26C5468A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2F00F7-3DB3-410C-AEAB-FDC5C5ACDCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2F00F7-3DB3-410C-AEAB-FDC5C5ACDCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2F00F7-3DB3-410C-AEAB-FDC5C5ACDCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2F00F7-3DB3-410C-AEAB-FDC5C5ACDCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

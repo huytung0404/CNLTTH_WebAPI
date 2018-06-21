@@ -1,0 +1,45 @@
+﻿@model MVC.Models.LOAISACH
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<strong class="card-title" style="margin-left:20px; font-size:30px; color:aqua;">XÓA LOẠI SÁCH</strong>
+
+<div>
+    <strong class="card-title" style="margin-left:25px; font-size:20px; color:black;">Bạn Có Muốn Xóa Loại Sách Này ??</strong>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã Loại Sách:
+        </dt>
+
+        <dd>
+            <span style="font-size:15pt;margin-left:5px;color:blue">@Model.MaLoaiSach</span>
+            @*@Html.DisplayFor(model => model.SoPhieuMuon)*@
+        </dd>
+
+        <dt>
+            Tên Loại Sách:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenLoaiSach)
+        </dd>
+
+        
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" style="background-color:red" /> |
+            <a href="@Url.Action("Index","LOAISACH")" class="btn btn-default" style=" background-color:plum">Back</a>
+
+        </div>
+    }
+</div>
